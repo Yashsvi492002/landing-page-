@@ -1,0 +1,533 @@
+body{
+    width: 100%;
+    height: 1800px;
+    background-color: rgb(189, 222, 225);
+    background-image: url("https://i.pinimg.com/736x/e4/c6/97/e4c697dc8d7eb6d0cb8e460045135cbd.jpg");
+    background-size:1510px 800px ;
+    background-repeat: no-repeat;
+    margin: 0px;
+}
+#intro_box{
+    float: left;
+    position: absolute;
+}
+#nav{
+    width: 1508px;
+    height: 40px;
+    background-color: #d1d1d0;
+    float: left;
+    background-color: #d1d1d0;
+    
+    margin-top:34px ;
+}
+table{
+    width: 580px;
+    height: 60px;
+    border: 1px solid white;
+    margin-top: 10px;
+    float: left;
+    margin-top: 480px;
+    background-color: rgb(255, 111, 0);
+    color: black;
+    font-weight: bold;
+}
+#login_btn{
+    width: 120px;
+    height: 30px;
+    border: 1px solid black;
+    float: right;
+    margin-top: 76px;
+    background-color: rgb(247, 179, 127);
+    color: black;
+    font-weight: bold;
+    font-size: 18px;
+    border-radius: 8px;
+    margin-right: 30px;
+}
+#head{
+    margin-left: 40px;
+    border-radius: 20px;
+    
+}
+#search
+{
+    width:700px;
+    height: 38px;
+    border: 1px solid black;
+    float: left;
+    margin-left:360px ;
+    position: absolute;
+    margin-top: 40px;
+    background-color: #d1d1d0;
+   margin-left: 40px;
+    margin-top: 60px;
+}
+#menu{
+    width: 260px;
+    height: 40px;
+    float: left;
+    margin-top: 2px;
+    margin-left: 38px;
+}
+#box1{
+    width: 1500px;
+    height: 160px;
+    background-color: black;
+    margin: 0%;
+    margin-top: 0%;
+   
+}
+#menu_1{
+    width: 168px;
+    height:40px;
+    float: left;
+    text-align: center;
+    margin-top: 8px;
+}
+#adv{
+    width: 1510px;
+    height: 780px;
+    background-color: aliceblue;
+}
+#btn{
+    float: left;
+}
+
+#con{
+    width: 1380px;
+    height: 740px;
+    overflow:hidden;
+    margin: 0 auto;
+}
+#btn1{
+   
+    height: 30px;
+    margin-top: 300px ;
+    float: left;
+    margin-left: 16px;
+    background-color: rgb(220, 209, 209);
+    color: rgb(6, 6, 6);
+}
+#btn2{
+  
+    height: 30px;
+    margin-top: 280px ;
+    float: right;
+    margin-right: 16px;
+    background-color: rgb(200, 196, 196);
+    color: rgb(12, 12, 12);
+}
+
+#slide{
+    width:7050px;
+    height:780px;
+    float: left;
+}
+#shop1{
+    width: 1510px;
+    height:830px;
+    background-color: rgb(189, 222, 225);
+}
+#shop2{
+    width: 1510px;
+    height:500px;
+    background-color:rgb(240, 247, 240);;
+}
+#shop_head{
+    text-align: center;
+    color: rgb(8, 23, 59);
+    font-size: 36px;
+    margin:0%;
+    margin-top: 20px;
+}
+#c1{
+    width:250px;
+    height: 300px;
+    margin-left: 40px;
+    float: left;
+    display: flex;
+    background-color: aliceblue;
+    box-shadow: 4px 4px rgb(231, 226, 226);
+  
+  
+}
+#c2{
+    width:250px;
+    height: 300px;
+    margin-left: 40px;
+    margin-top: 30px;
+    float: left;
+    display: flex;
+    border: 1px solid rgb(252, 249, 249);
+    background-color: aliceblue;
+    box-shadow: 4px 4px rgb(229, 224, 224);
+    position: relative;
+    
+}
+#prod_nameB{
+    font-size: 20px;
+    color: rgb(143, 33, 6);
+    text-align: center;
+    font-weight: bold;
+    float: left;
+    position: absolute;
+    margin-top: 250px;
+    margin-left: 30%;  
+}
+#prod_nameM{font-size: 20px;
+color: rgb(143, 33, 6);
+text-align: center;
+font-weight: bold;
+float: left;
+position: absolute;
+margin-top: 250px;
+margin-left: 24%;
+}
+#prod_nameBE{
+    font-size: 20px;
+    color: rgb(143, 33, 6);
+    text-align: center;
+    font-weight: bold;
+    float: left;
+    position: absolute;
+    margin-top: 250px;
+    margin-left: 35%;  
+}
+#ir{
+    font-size: 20px;
+    color: rgb(143, 33, 6);
+    text-align: center;
+    font-weight: bold;
+    float: left;
+    position: absolute;
+    margin-top: 250px;
+    margin-left: 40px;
+    
+}
+#c1 :hover{
+    box-shadow: 3px 3px rgb(231, 213, 213);
+}
+#c2 :hover{
+    box-shadow: 3px 3px rgb(231, 213, 213);
+}
+#text{
+    font-size: 20px;
+    margin-top: 0px;
+}
+#explore{
+    font-size: 20px;
+    color: rgb(52, 27, 75);
+    text-align: center;
+    font-weight: bold;
+    float: left;
+    margin-top: 276px;
+    position: absolute;
+    margin-left: 80px;
+   
+}
+#prod_name{
+    font-size: 20px;
+    color: rgb(143, 33, 6);
+    text-align: center;
+    font-weight: bold;
+    float: left;
+    position: absolute;
+    margin-top: 250px;
+    margin-left: 30%;
+    
+    
+}
+#prod_nameR{
+    font-size: 20px;
+    color: rgb(143, 33, 6);
+    text-align: center;
+    font-weight: bold;
+    float: left;
+    position: absolute;
+    margin-top: 250px;
+    margin-left: 39%;
+    
+}
+#prod_nameP{
+    font-size: 20px;
+    color: rgb(143, 33, 6);
+    text-align: center;
+    font-weight: bold;
+    float: left;
+    position: absolute;
+    margin-top: 250px;
+    margin-left: 25%;
+   
+}
+#prod_nameA{
+    font-size: 20px;
+    color: rgb(143, 33, 6);
+    text-align: center;
+    font-weight: bold;
+    float: left;
+    position: absolute;
+    margin-top: 250px;
+    margin-left: 32%;
+    
+}
+#prod_nameN{
+    font-size: 20px;
+    color: rgb(143, 33, 6);
+    text-align: center;
+    font-weight: bold;
+    float: left;
+    position: absolute;
+    margin-top: 250px;
+    margin-left: 28%;
+}
+#shop3{
+    width: 1510px;
+    height:520px;
+    background-color: rgb(189, 222, 225);
+}
+#c3{
+    width:400px;
+    height: 300px;
+    border: 1px solid black;
+    border-radius: 6px;
+    float: left;
+    margin-left:76px ;
+    background-color: aliceblue;
+    border-radius: 8px;
+   
+}
+#c4{
+    width:400px;
+    height: 400px;
+    border: 1px solid black;
+    border-radius: 6px;
+    float: left;
+    margin-left:76px ;
+    background-color: aliceblue;
+    border-radius: 8px;
+   
+}
+#explore_btn{
+    width: 130px;
+    height: 40px;
+    border: 1px solid black;
+    position: absolute;
+    color: rgb(248, 248, 250);
+    position: relative;
+    margin-left: 130px;
+    text-align: center;
+    background-color: rgb(143, 33, 6);
+    font-size: 20px;
+    font-weight:bold ;
+    border-radius: 8px;
+}
+
+#explore_btn:hover{
+    width:135px;
+    height: 45px;
+    background-color: rgb(240, 247, 240);
+    color: black;
+    box-shadow: 3px 3px rgb(237, 231, 231);
+    border-radius: 8px;
+}
+#image_new{
+    border-radius: 8px;
+}
+#image_new:hover{
+    width:410px;
+    height: 410px;
+}
+#shop4{
+    width: 1510px;
+    height:700px;
+    background-color:  rgb(189, 222, 225);
+}
+#cat_box{
+    width:400px;
+    height: 40px;
+    border: 1px solid black;
+    border-radius: 6px;
+    float: left;
+    
+    background-color: rgb(234, 239, 244);
+    border-radius: 8px; ;
+    
+}
+
+#cat_type{
+    font-size: 22px;
+    color: rgb(152, 44, 44);
+    float: left;
+    margin: 10px 25px;
+    font-weight: bold;
+    
+}
+#p_b{
+    width: 200px;
+    height: 20px;
+    border: 1px solid black;
+    background-color: black;
+    float: left;
+    margin-left: 0px;
+    margin-top: 80px;
+   
+}
+#neck{
+    color: black;
+}
+#ff{
+    float: left;
+    position: absolute;
+    margin-top: 254px;
+    color: brown;
+    font-weight: bold;
+    text-align: center;
+    font-size: 20px;
+    margin-left: 72px; 
+}
+#ff1{
+    float: left;
+    position:  absolute;
+    margin-top: 274px;
+    color: rgb(21, 10, 88);
+    font-weight: bold;
+    text-align: center;
+    font-size: 20px;
+    margin-left: 80px; 
+    
+}
+#Pricebox{
+    width:480px ;
+    height: 40px;
+    color: rgb(97, 5, 5);
+    background-color: rgb(249, 243, 243);
+    margin-left: 10px;
+    margin-top: 254px;
+    position: absolute;
+}
+#ele_name{
+    margin-left: 4px;
+    text-align: center;
+    background-color: rgb(254, 250, 250);
+}
+#exp{
+    font-size: 22px;
+    color: black;
+    float: right;
+    margin: 10px;
+    margin-right: 25px;
+    font-weight: bold;
+}
+#cat_box:hover{
+    width:404px;
+    height: 43px;;
+}
+#shop_5{
+    width: 1510px;
+    height:500px;
+    background-color: rgb(239, 243, 243);
+}
+#connect{
+    width: 1510px;
+    height:300px;
+    border: 1px solid aliceblue;
+    background-color: rgb(239, 243, 243);
+}
+#con_box{
+    margin: 0%;
+    width:300px;
+    height: 150px;
+    border: 2px solid black;
+    border-radius: 6px;
+    float: left;
+    margin-left:156px ;
+    background-color: aliceblue;
+    border-radius: 8px;
+}
+#con_text{
+    margin: 0%;
+    font-size: 24px;
+    color: rgb(171, 34, 61);
+    margin-left: 20px;
+    margin-top: 20px;
+}
+#con_media{
+    margin: 0%;
+    margin-left:22px ;
+    color:rgb(78, 55, 225) ;
+    
+
+}
+#con_btn1{
+    background-color: rgb(67, 207, 88);
+    color: black;
+    align-self: center;
+    width: 130px;
+    height: 30px;
+    font-size: 22px;
+    font-weight: bold;
+    margin-left: 34%;
+    margin-top: 16px;
+}
+
+#con_btn2{
+    background-color: rgb(67, 207, 88);
+    color: black;
+    align-self: center;
+    width: 110px;
+    height: 30px;
+    font-size: 22px;
+    font-weight: bold;
+    margin-left: 36%;
+    margin-top: 16px;
+}
+#con_btn3{
+    background-color: rgb(67, 207, 88);
+    color: black;
+    align-self: center;
+    width: 140px;
+    height: 30px;
+    font-size: 22px;
+    font-weight: bold;
+    margin-left: 34%;
+    margin-top: 16px;
+}
+#contact_us{
+    width: 1510px;
+    height:260px;
+    border: 1px solid aliceblue;
+    background-color:  rgb(189, 222, 225);
+}
+
+#add{
+    margin: 0%;
+    margin-left: 40px;
+    margin-top: 50px;
+    width: 350px;
+    height: 200px;
+   
+    float: left;
+}
+#add1{
+    margin: 0%;
+    margin-left: 40px;
+    margin-top: 50px;
+    width: 250px;
+    height: 200px;
+   
+    float: left;
+}
+#add_text{
+    margin-left: 20px;
+    color: rgb(7, 3, 3);
+    font-size: 18px;
+    font-weight: bold;
+    
+}
+#add_head{
+    margin-left: 20px;
+    color: rgb(117, 39, 39); 
+}
+#show_img{
+    position: absolute;
+}
